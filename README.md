@@ -3,7 +3,7 @@ Hi there 👋
 My name is Sayed Ahmadreza Razian (Farshad) and I'm PhD student in the Biomechanics, University of Nebraska at Omaha. 
 [My Google Scholar](https://scholar.google.com/citations?user=Dh9Iy2YAAAAJ)
 
-I am here to interduce our developed software, Please let us know your comments.
+You can find our developed software, Please let us know your comments.
 
 Best Regards
 
